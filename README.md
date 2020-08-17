@@ -28,9 +28,9 @@ A instalação do 'abnTeX2' pode ser encontrada [Clicando Aqui](https://github.c
 
 ## Instalação do Editor
 Recomendamos a instalação de um dos seguintes editores LaTeX:
-1.[TeXMaker](https://www.xm1math.net/texmaker/)
-2.[TeXstudio](https://www.texstudio.org/)
-3.[LyX](https://www.lyx.org/Download)
+1.[TeXMaker](https://www.xm1math.net/texmaker/);
+2.[TeXstudio](https://www.texstudio.org/);
+3.[LyX](https://www.lyx.org/Download);
 
 ## Utilização
 Esta classe LaTeX é baseada no pacote abnTeX2 que já providencia todo a formatação e codificação necessária, de acordo com as normas ABNT. As alterações são identificadas nas modificações focadas nos trabalhos acadêmicos do Centro Universitário Vale do Iguaçu - UNIGUAÇU, de União da Vitória, Paraná.
