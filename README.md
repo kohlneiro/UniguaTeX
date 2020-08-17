@@ -3,8 +3,6 @@ LaTeX Template para Trabalhos de Conclusão de Curso do Centro Universitário Va
 Este projeto é aberto e livre para edições e melhorias.
 O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
 **Projeto não vinculado à qualquer órgão do Centro Universitário Vale do Iguaçu - UNIGUAÇU.**
-## Visualização Prévia
-
 
 ## Instalação 'LaTeX' e 'abnTeX2'
 A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
