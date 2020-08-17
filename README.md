@@ -3,7 +3,7 @@ LaTeX Template para Trabalhos de Conclusão de Curso do Centro Universitário Va
 Este projeto é aberto e livre para edições e melhorias.
 O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
 
-**Projeto não vinculado à qualquer órgão do Centro Universitário Vale do Iguaçu - UNIGUAÇU.**
+**Projeto de autoria Acadêmica, sem vínculo com a Uniguaçu**
 
 ## Instalação LaTeX e abnTeX2
 
@@ -28,7 +28,9 @@ Certifique-se que durante a instalação tenha marcado todos os pacotes LaTeX, p
 #### MacOS
 
 A distribuição MacTeX está disponível em [MacTeX](https://tug.org/mactex/mactex-download.html).
-### 'abnTeX2'
+
+### abnTeX2
+
 A instalação do 'abnTeX2' pode ser encontrada [Clicando Aqui](https://github.com/abntex/abntex2/wiki/Instalacao).
 
 ## Instalação do Editor
