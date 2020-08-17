@@ -5,43 +5,46 @@ O projeto possui como nome principal 'uniguatex', baseado da Instituição de En
 
 **Projeto de autoria Acadêmica, sem vínculo com a Uniguaçu**
 
-## Instalação LaTeX e abnTeX2
+## Instalação `LaTeX` e `abnTeX2`
 
 A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
 
-### LaTeX
+### `LaTeX`
 
 #### Linux
 
 Recomendamos que utilize a versão atualizada do Ubuntu ou LinuxMint para melhores resultado e pelo suporte maior em relação à dúvidas.
 Para instalar a distribuição TeX Live no seu Linux, abra o Terminal e digite o que segue:
-'sudo apt-get update'
-'sudo apt-get upgrade'
-'sudo apt-get install texlive-full'
+```
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install texlive-full
+
+```
 Com isto, seu Sitema Operacional estará atualizado e pronto para receber pacotes LaTeX
 
 #### Windows
 
-A distribuição aqui será a 'TeX Live' porém o instalador é o 'MiKTeX', disponível aqui, [MiKTeX](https://miktex.org/download).
-Certifique-se que durante a instalação tenha marcado todos os pacotes LaTeX, para que não precise instalar manualmente depois ou esperar durante a compilação do '.tex'.
+A distribuição aqui será a `TeX Live` porém o instalador é o `MiKTeX`, disponível aqui, [MiKTeX](https://miktex.org/download).
+Certifique-se que durante a instalação tenha marcado todos os pacotes LaTeX, para que não precise instalar manualmente depois ou esperar durante a compilação do `.tex`.
 
 #### MacOS
 
 A distribuição MacTeX está disponível em [MacTeX](https://tug.org/mactex/mactex-download.html).
 
-### abnTeX2
+### `abnTeX2`
 
-A instalação do 'abnTeX2' pode ser encontrada [Clicando Aqui](https://github.com/abntex/abntex2/wiki/Instalacao).
+A instalação do `abnTeX2` pode ser encontrada [Clicando Aqui](https://github.com/abntex/abntex2/wiki/Instalacao).
 
 ## Instalação do Editor
 
 Recomendamos a instalação de um dos seguintes editores LaTeX:
 
-1.[TeXMaker](https://www.xm1math.net/texmaker/)
+1.  [TeXMaker](https://www.xm1math.net/texmaker/)
 
-2.[TeXstudio](https://www.texstudio.org/)
+2.  [TeXstudio](https://www.texstudio.org/)
 
-3.[LyX](https://www.lyx.org/Download);
+3.  [LyX](https://www.lyx.org/Download)
 
 ## Utilização
 
