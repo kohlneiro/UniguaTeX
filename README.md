@@ -4,10 +4,10 @@ Este projeto é aberto e livre para edições e melhorias.
 O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
 **Projeto não vinculado à qualquer órgão do Centro Universitário Vale do Iguaçu - UNIGUAÇU.**
 
-## Instalação 'LaTeX' e 'abnTeX2'
+## Instalação LaTeX e abnTeX2
 A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
 
-### 'LaTeX'
+### LaTeX
 
 #### Linux
 Recomendamos que utilize a versão atualizada do Ubuntu ou LinuxMint para melhores resultado e pelo suporte maior em relação à dúvidas.
@@ -28,8 +28,11 @@ A instalação do 'abnTeX2' pode ser encontrada [Clicando Aqui](https://github.c
 
 ## Instalação do Editor
 Recomendamos a instalação de um dos seguintes editores LaTeX:
-1.[TeXMaker](https://www.xm1math.net/texmaker/);
-2.[TeXstudio](https://www.texstudio.org/);
+
+1.[TeXMaker](https://www.xm1math.net/texmaker/)
+
+2.[TeXstudio](https://www.texstudio.org/)
+
 3.[LyX](https://www.lyx.org/Download);
 
 ## Utilização
