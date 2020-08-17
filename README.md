@@ -5,11 +5,11 @@ O projeto possui como nome principal 'uniguatex', baseado da Instituição de En
 
 **Projeto de autoria Acadêmica, sem vínculo com a Uniguaçu**
 
-## Instalação `LaTeX` e `abnTeX2`
+## Instalação LaTeX e abnTeX2
 
 A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
 
-### `LaTeX`
+### LaTeX
 
 #### Linux
 
@@ -32,7 +32,7 @@ Certifique-se que durante a instalação tenha marcado todos os pacotes LaTeX, p
 
 A distribuição MacTeX está disponível em [MacTeX](https://tug.org/mactex/mactex-download.html).
 
-### `abnTeX2`
+### abnTeX2
 
 A instalação do `abnTeX2` pode ser encontrada [Clicando Aqui](https://github.com/abntex/abntex2/wiki/Instalacao).
 
