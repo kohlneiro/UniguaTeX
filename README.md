@@ -4,7 +4,7 @@ Este projeto é aberto e livre para edições e melhorias.
 O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
 
 **Projeto de autoria Acadêmica, sem vínculo com a Uniguaçu**
-A visualização prévia é possível através de [modelo](modelo.pdf)
+
 ## Instalação LaTeX e abnTeX2
 
 A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
