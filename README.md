@@ -19,7 +19,6 @@ Para instalar a distribuição TeX Live no seu Linux, abra o Terminal e digite o
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install texlive-full
-
 ```
 Com isto, seu Sitema Operacional estará atualizado e pronto para receber pacotes LaTeX
 
@@ -54,3 +53,7 @@ Dúvidas quanto à escrita ou documentação, basta procurar em repositórios La
 
 A leitura do arquivo [orientacoes](orientacoes.pdf) é de extrema importância, pois dará uma breve introdução a respeito de como utilizar o LaTeX.
 
+Além deste arquivo, a plataforma online edX, através do Instituto de Técnologia Indiano de Bombai, IIT Bombay, proporcionam um curso gratuito para visualização e pago para certificação, de como utilizar o LaTeX. Recomenda-se assistir ao curso e a praticar suas tarefas. Ele pode ser obtido através da plataforma [edX](https://www.edx.org/course/latex-for-students-engineers-and-scientists-2).
+O website Latex-Tutorial proporciona uma introdução e um aprofundamento em diversos parâmetros de escrita do LaTeX, sua leitura, em [latex-tutorial](https://www.latex-tutorial.com/tutorials/), é recomendada.
+
+Ainda assim, se for necessário, a comunidade LaTeX é muito ampla e diversas dúvidas podem ser resolvidas através de diversas platafomas livres na rede.
