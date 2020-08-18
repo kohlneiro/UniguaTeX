@@ -4,7 +4,7 @@ Este projeto é aberto e livre para edições e melhorias.
 O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
 
 **Projeto de autoria Acadêmica, sem vínculo com a Uniguaçu**
-
+A visualização prévia é possível através de [modelo](modelo.pdf)
 ## Instalação LaTeX e abnTeX2
 
 A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
@@ -51,7 +51,7 @@ Esta classe LaTeX é baseada no pacote abnTeX2 que já providencia todo a format
 
 Dúvidas quanto à escrita ou documentação, basta procurar em repositórios LaTeX, anbTeX2 ou solicitando em Issues.
 
-A leitura do arquivo [orientacoes](orientacoes.pdf) é de extrema importância, pois dará uma breve introdução a respeito de como utilizar o LaTeX.
+A leitura do arquivo  é de extrema importância, pois dará uma breve introdução a respeito de como utilizar o LaTeX.
 
 Além deste arquivo, a plataforma online edX, através do Instituto de Técnologia Indiano de Bombai, IIT Bombay, proporcionam um curso gratuito para visualização e pago para certificação, de como utilizar o LaTeX. Recomenda-se assistir ao curso e a praticar suas tarefas. Ele pode ser obtido através da plataforma [edX](https://www.edx.org/course/latex-for-students-engineers-and-scientists-2).
 O website Latex-Tutorial proporciona uma introdução e um aprofundamento em diversos parâmetros de escrita do LaTeX, sua leitura, em [latex-tutorial](https://www.latex-tutorial.com/tutorials/), é recomendada.
