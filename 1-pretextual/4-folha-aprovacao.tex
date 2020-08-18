@@ -1,0 +1,36 @@
+%**********************************************%
+%			FOLHA DE APROVAÇÃO				   %                      
+%**********************************************%
+\newcommand{\dia}{Dia}
+\newcommand{\mes}{Mês}
+\newcommand{\ano}{\the\year}
+\newcommand{\membroA}{Nome do Membro} % alterar o nome do membro 1
+\newcommand{\membroB}{Nome do Membro} % alterar o nome do membro 2
+
+\begin{folhadeaprovacao}    
+	\begin{center}
+		\ABNTEXchapterfont\textbf {TERMO DE APROVAÇÃO}\\[5pt]
+	\end{center}
+	\vspace{20pt}
+	\begin{center}
+		\ABNTEXchapterfont\MakeUppercase{\imprimirtitulo}\\
+	\end{center}
+	\vspace{26pt}
+	\begin{center}
+		\ABNTEXchapterfont\MakeUppercase{\imprimirautor}\\
+	\end{center} 
+	\vspace{24pt}       
+	\noindent \imprimirprojeto ~ apresentado ao \imprimircurso ~ do \imprimirinstituicao, como requisito para obtenção do Grau de \imprimirtituloacademico , considerado aprovado pela banca examinadora e avaliado como nota: $\rule{10mm}{0.15mm}$ em sua defesa publica.
+	\vspace{20pt}
+	\begin{center}
+		\assinatura{\imprimirorientador \\ \imprimirinstituicao}
+		\vspace{20pt}
+		\assinatura{\membroA \\ \imprimirinstituicao}
+		\vspace{20pt}
+		\assinatura{\membroB \\ \imprimirinstituicao}
+	\end{center}    
+	\begin{center}
+		\vfill
+		{\imprimirlocal, \dia{} de \mes{} de \ano{}}
+	\end{center}
+\end{folhadeaprovacao}
