@@ -52,5 +52,5 @@ Esta classe LaTeX é baseada no pacote abnTeX2 que já providencia todo a format
 
 Dúvidas quanto à escrita ou documentação, basta procurar em repositórios LaTeX, anbTeX2 ou solicitando em Issues.
 
-A leitura do arquivo em pdf 
+A leitura do arquivo [orientacoes](orientacoes.pdf) é de extrema importância, pois dará uma breve introdução a respeito de como utilizar o LaTeX.
 
