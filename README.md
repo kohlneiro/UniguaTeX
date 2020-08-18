@@ -1,7 +1,7 @@
 # UniguaTeX
 LaTeX Template para Trabalhos de Conclusão de Curso do Centro Universitário Vale do Iguaçu
 Este projeto é aberto e livre para edições e melhorias.
-O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
+O projeto possui como nome principal `uniguatex`, baseado da Instituição de Ensino Superior e do LaTeX.
 
 Aqui está uma prévia do [modelo](modelo.pdf) em PDF.
 
@@ -9,7 +9,7 @@ Aqui está uma prévia do [modelo](modelo.pdf) em PDF.
 
 ## Instalação LaTeX e abnTeX2
 
-A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote 'abnTeX2'. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
+A utilização desta classe implica em ter uma distribuição LaTeX atual, com o pacote `abnTeX2`. A sugestão de instalação é do TeX Live para Sistemas Operacionais Windows e Linux e MacTeX para macOS.
 
 ### LaTeX
 
@@ -49,7 +49,7 @@ Recomendamos a instalação de um dos seguintes editores LaTeX:
 
 ## Utilização
 
-Esta classe LaTeX é baseada no pacote abnTeX2 que já providencia todo a formatação e codificação necessária, de acordo com as normas ABNT. As alterações são identificadas nas modificações focadas nos trabalhos acadêmicos do Centro Universitário Vale do Iguaçu - UNIGUAÇU, de União da Vitória, Paraná.
+Esta classe LaTeX é baseada no pacote abnTeX2 que já providencia todo a formatação e codificação necessária, de acordo com as normas ABNT. As alterações são identificadas nas modificações focadas nos trabalhos acadêmicos do Centro Universitário Vale do Iguaçu - UNIGUAÇU, de União da Vitória, Paraná. Para utilizar, clique no botão verde Code e faça o download em .ZIP. Assim que baixar, extraia e abra o arquivo uniguatex-tcc.
 
 Dúvidas quanto à escrita ou documentação, basta procurar em repositórios LaTeX, anbTeX2 ou solicitando em Issues.
 
