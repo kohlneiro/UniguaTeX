@@ -3,6 +3,8 @@ LaTeX Template para Trabalhos de Conclusão de Curso do Centro Universitário Va
 Este projeto é aberto e livre para edições e melhorias.
 O projeto possui como nome principal 'uniguatex', baseado da Instituição de Ensino Superior e do LaTeX.
 
+Aqui está uma prévia do [modelo](modelo.pdf) em PDF.
+
 **Projeto de autoria Acadêmica, sem vínculo com a Uniguaçu**
 
 ## Instalação LaTeX e abnTeX2
@@ -51,7 +53,7 @@ Esta classe LaTeX é baseada no pacote abnTeX2 que já providencia todo a format
 
 Dúvidas quanto à escrita ou documentação, basta procurar em repositórios LaTeX, anbTeX2 ou solicitando em Issues.
 
-A leitura do arquivo  é de extrema importância, pois dará uma breve introdução a respeito de como utilizar o LaTeX.
+A leitura do arquivo [orientacoes](orientacoes.pdf) é de extrema importância, pois dará uma breve introdução a respeito de como utilizar o LaTeX.
 
 Além deste arquivo, a plataforma online edX, através do Instituto de Técnologia Indiano de Bombai, IIT Bombay, proporcionam um curso gratuito para visualização e pago para certificação, de como utilizar o LaTeX. Recomenda-se assistir ao curso e a praticar suas tarefas. Ele pode ser obtido através da plataforma [edX](https://www.edx.org/course/latex-for-students-engineers-and-scientists-2).
 O website Latex-Tutorial proporciona uma introdução e um aprofundamento em diversos parâmetros de escrita do LaTeX, sua leitura, em [latex-tutorial](https://www.latex-tutorial.com/tutorials/), é recomendada.
