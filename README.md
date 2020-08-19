@@ -59,3 +59,8 @@ Além deste arquivo, a plataforma online edX, através do Instituto de Técnolog
 O website Latex-Tutorial proporciona uma introdução e um aprofundamento em diversos parâmetros de escrita do LaTeX, sua leitura, em [latex-tutorial](https://www.latex-tutorial.com/tutorials/), é recomendada.
 
 Ainda assim, se for necessário, a comunidade LaTeX é muito ampla e diversas dúvidas podem ser resolvidas através de diversas platafomas livres na rede.
+
+## Melhorias
+
+Estamos trabalhando para melhorar e deixar o processo de escrita ainda mais fácil. Por enquanto, o checklist de atualizações está sendo cumprido.
+
