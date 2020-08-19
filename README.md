@@ -64,3 +64,10 @@ Ainda assim, se for necessário, a comunidade LaTeX é muito ampla e diversas d�
 
 Estamos trabalhando para melhorar e deixar o processo de escrita ainda mais fácil. Por enquanto, o checklist de atualizações está sendo cumprido.
 
+- [x] Criação do Template LaTeX Uniguaçu
+- [ ] Modificação do Texto de Entrada do TCC
+- [ ] Tutorial para Overleaf
+- [ ] Automatização de Siglas
+- [ ] Automatização de Símbolos
+
+Sinta-se livre para pedir melhorias através de Pull Requests, onde poderemos trabalhar em conjunto.
