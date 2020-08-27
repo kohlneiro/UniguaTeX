@@ -168,7 +168,7 @@
 \renewcommand{\listadesimbolosname}{LISTA DE S\'{I}MBOLOS}
 \renewcommand{\listfigurename}{LISTA DE FIGURAS}
 \renewcommand{\listtablename}{LISTA DE TABELAS}
-\renewcommand{\indexname}{\'{I}NDICE REMISSIVO}
+\renewcommand{\bibname}{REFER\^ENCIAS}
 % macro \autoref
 \renewcommand{\pageautorefname}{p\'agina}
 }
