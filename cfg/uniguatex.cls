@@ -23,7 +23,7 @@
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{abntex2}}
 \PassOptionsToClass
 {
-12pt, a4paper, sumario=abnt-6027-2012, brazil,                  
+12pt, oneside, a4paper, sumario=abnt-6027-2012, brazil,                  
 }{abntex2}
 \ProcessOptions\relax
 \LoadClass{abntex2}
